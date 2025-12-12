@@ -12,6 +12,5 @@
   "commands": [
     "./commands/review-pr.md",
     "./commands/review-dependabot.md"
-  ],
-  "mcpServers": "./.mcp.json"
+  ]
 }
